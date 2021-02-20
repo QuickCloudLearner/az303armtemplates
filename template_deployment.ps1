@@ -50,3 +50,5 @@ New-AzResourceGroup `
   -DeploymentDebugLogLevel All
 
   --------------------------------------------------
+
+  template to remove the resource groups
