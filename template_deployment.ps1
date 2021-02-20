@@ -48,3 +48,5 @@ New-AzResourceGroup `
   -ResourceGroupName $resourceGroupName `
   -TemplateFile d:\workspace\azuredeploy.json `
   -DeploymentDebugLogLevel All
+
+  --------------------------------------------------
