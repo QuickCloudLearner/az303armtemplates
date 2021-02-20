@@ -1,0 +1,4 @@
+AZ303 - Preparation practical work
+
+How to write ARM templates from sratch
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-tutorial-create-first-template?tabs=azure-powershell
