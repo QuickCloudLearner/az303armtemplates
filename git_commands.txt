@@ -1,0 +1,21 @@
+git_commands
+
+git clonegit 
+git remote set-url https://github.com/QuickCloudLearner/az303.git
+
+
+// git switch branch
+git checkout main
+
+//store credentials
+git config credential.helper store
+git push
+git config --global credential.helper 'cache --timeout 7200'
+
+//git merge branchName
+
+//git branch -D branchName
+
+//git push --set-upstream origin test
+
+git checkout -b mynewbranch2 development
