@@ -23,7 +23,7 @@ $resourceGroupName = "${projectName}rg"
 
 New-AzResourceGroup `
   -Name $resourceGroupName `
-  -Location "east US"
+  -Location "west US"
 
   New-AzResourceGroupDeployment `
   -Name DeployLocalTemplate  `
