@@ -11,3 +11,7 @@ git checkout main
 git config credential.helper store
 git push
 git config --global credential.helper 'cache --timeout 7200'
+
+//git merge branchName
+
+//git branch -D branchName
