@@ -1,7 +1,11 @@
 git_commands
 
-git clone
+git clonegit 
 git remote set-url https://github.com/QuickCloudLearner/az303.git
+
+
+// git switch branch
+git checkout main
 
 //store credentials
 git config credential.helper store
