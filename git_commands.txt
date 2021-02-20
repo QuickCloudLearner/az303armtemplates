@@ -15,3 +15,5 @@ git config --global credential.helper 'cache --timeout 7200'
 //git merge branchName
 
 //git branch -D branchName
+
+//git push --set-upstream origin test
