@@ -2,3 +2,8 @@ git_commands
 
 git clond
 git remote set-url https://github.com/QuickCloudLearner/az303.git
+
+//store credentials
+git config credential.helper store
+git push
+git config --global credential.helper 'cache --timeout 7200'
