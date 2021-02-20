@@ -1,6 +1,6 @@
 git_commands
 
-git clond
+git clone
 git remote set-url https://github.com/QuickCloudLearner/az303.git
 
 //store credentials
