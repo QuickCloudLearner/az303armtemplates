@@ -17,3 +17,5 @@ git config --global credential.helper 'cache --timeout 7200'
 //git branch -D branchName
 
 //git push --set-upstream origin test
+
+git checkout -b mynewbranch2 development
